@@ -1,0 +1,25 @@
+“A day without laughter is a day wasted.”::::Positive
+“A friend is what the heart needs all the time.”::::Positive
+“A photo says a thousand words.”::::Neutral
+“All you need is a fresh start.”::::Positive
+“All you need is love.”::::Neutral
+“As HAPPY as can be!.”::::Positive
+“Be kind. Be love.”::::Neutral
+” Be so good they can't ignore you.”::::Negative
+“Every love story is beautiful, but ours is my favorite.”::::Positive
+“Home is where your heart is”::::Negative
+“How wonderful life is now you are in my world.”::::Positive
+“I am catastrophically in love with you.”::::Negative
+“I fell in love the way you fall asleep; slowly, then all at one.”::::Neutre
+“Better an oops than a what if.”::::Neutral
+“Born to shine.”::::Positive
+“But first, let me take a selfie.”::::Negative
+“Good vibes only”::::Positive
+“Happiness comes in waves.”::::Negative
+“Here we go.”::::Negative
+“I can and I will.”::::Neutral
+“It never rains forever.”::::Neutral
+“Keep it coming.::::Negative
+“Keep smiling.”::::Positive
+“The worst day of my life”::::Negative
+
